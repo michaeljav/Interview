@@ -12,3 +12,7 @@ Server=tcp:interview-testing.database.windows.net,1433;Initial Catalog=Interview
 gemmela      Archie
 charltonr       Bobbie
 
+
+3. Visual Studio 2015 -ASP.NET MVC 5
+-.Net framework 4.6.1
+-Data Base Sql Server Azure
